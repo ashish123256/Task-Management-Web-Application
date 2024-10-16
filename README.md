@@ -8,7 +8,25 @@ This  is Task management web application.
 
 ## Features
 
-- **Easy to Use**: The interface is intuitive and user-friendly, making it accessible to users of all levels of expertise.
+- Features:
+User Authentication:
+Login/Signup: Users can register and log in to manage their tasks.
+Logout: Secure logout mechanism, clearing sessions/local storage.
+
+Task Management:
+Add/Edit Tasks: Users can create tasks and modify existing ones.
+Delete Tasks: Allow users to remove tasks from their list.
+Task Prioritization: Mark tasks as pinned or unpinned.
+Tagging: Allow users to categorize tasks using tags.
+Search: Enable users to search for tasks by keywords or tags.
+
+User Profile:
+Display User Info: Show user's name and provide logout functionality.
+
+Toast Notifications:
+Show success or error messages for user actions like task creation, updates, or deletion.
+Responsive Design:
+Mobile-friendly UI to ensure the app works on different screen sizes.
 
 
 
