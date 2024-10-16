@@ -1,0 +1,1 @@
+export const BASE_URL="https://task-manager-backend-4cse.onrender.com"
